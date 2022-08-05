@@ -1,23 +1,27 @@
 [
   {
+    "id": 1,
     "title": "NAVI, G2, and Liquid all in same pool at BLAST Premier Fall Groups 2022",
     "subtitle": "The action will begin on Aug. 19.",
     "image": "https://cdn1.dotesports.com/wp-content/uploads/2022/03/01072753/ezgif-2-6ed47a37ad.jpg",
     "url": "https://dotesports.com/counter-strike/news/navi-g2-and-liquid-all-in-same-pool-at-blast-premier-fall-groups-2022"
   },
   {
+    "id": 2,
     "title": "Houston Outlaws reportedly looking to sell Pelican, Ir1s, PIGGY",
     "subtitle": "This is a surprising turn of events, considering how well Houston Outlaws are playing lately.",
     "image": "https://cdn1.dotesports.com/wp-content/uploads/2022/08/03090137/OWL-Press-Asset-BZ6F8D-1.jpg",
     "url": "https://dotesports.com/overwatch/news/houston-outlaws-reportedly-looking-to-sell-pelican-ir1s-piggy"
   },
-  {    
+  { 
+    "id": 3,
     "title": "JDG bounce back from RNG defeat with win over Weibo Gaming in 2022 LPL Summer Split",
     "subtitle": "Kanavi and Yagao helped JDG clinch an easy victory.",
     "image": "https://cdn1.dotesports.com/wp-content/uploads/2022/03/05082207/JDG-win-LPL.png",
     "url": "https://dotesports.com/league-of-legends/news/jdg-bounce-back-win-over-weibo-gaming-in-2022-lpl-summer-split"
   },
-  {    
+  { 
+    "id": 4,
     "title": "SANDBOX qualify for 2022 LCK Summer Split Playoffs after sweeping DWG KIA",
     "subtitle": "DWG's poor performance might be a concern.",
     "image": "https://cdn1.dotesports.com/wp-content/uploads/2022/03/10063922/Liiv-SANDBOX-1.jpg",
